@@ -1,0 +1,4 @@
+<tweet><id>1</id><message>easy batch rocks! #EasyBatch</message><user>foo</user></tweet>
+<tweet><id>2</id><message>@foo I do confirm :-)</message><user>bar</user></tweet>
+<tweet><id>3</id><message>@foo @bar Is it really easy?</message><user>baz</user></tweet>
+<tweet><id>4</id><message>@foo @bar @baz yeah! kinda KISS framework</message><user>toto</user></tweet>
