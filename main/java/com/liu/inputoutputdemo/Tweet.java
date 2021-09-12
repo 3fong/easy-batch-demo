@@ -17,8 +17,7 @@ public class Tweet {
 
     private String message;
 
-    public Tweet() {
-    }
+    public Tweet() {}
 
     public Tweet(int id, String user, String message) {
         this.id = id;
