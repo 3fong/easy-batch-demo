@@ -1,0 +1,7 @@
+#id,name,description,price,published,lastUpdate
+0001,product1,description1,2500,true,2014-01-01
+000x,product2,description2,2400,true,2014-01-01
+0003,,description3,2300,true,2014-01-01
+0004,product4,description4,-2200,true,2014-01-01
+0005,product5,description5,2100,true,2024-01-01
+0006,product6,description6,2000,true,2014-01-01,Blah!
